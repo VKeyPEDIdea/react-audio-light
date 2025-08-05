@@ -1,6 +1,6 @@
 {
   "name": "react-audio-light",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight React Audio hooks library for Recording and Playing Audio based on MediaStream Recording API",
   "keywords": [
     "audio",
@@ -21,7 +21,7 @@
     "react-hooks-audio",
     "react-audio-player-hooks",
     "react-audio-recorder-hooks",
-    "react-audio-player-recorder",  
+    "react-audio-player-recorder",
     "hooks",
     "MediaRecorder",
     "getuserMedia",
