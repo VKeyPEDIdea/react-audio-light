@@ -1,4 +1,4 @@
-# React Audio Recorder
+# React audio light
 
 A lightweight React hooks library for audio recording and playing in web applications based on MediaStream Recording API. Provides a simple hooks for recording, stopping, and accessing audio data as a Blob.
 

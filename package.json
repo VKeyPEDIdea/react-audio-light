@@ -1,5 +1,5 @@
 {
-  "name": "react-audio",
+  "name": "react-audio-light",
   "version": "0.1.0",
   "description": "Lightweight React Audio hooks library for Recording and Playing Audio based on MediaStream Recording API",
   "keywords": [
