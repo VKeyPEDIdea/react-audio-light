@@ -19,7 +19,7 @@ npm install react-audio-light
 
 ```tsx
 import React from 'react';
-import { useAudioRecorder, useAudioPlayer } from 'react-audio';
+import { useAudioRecorder, useAudioPlayer } from 'react-audio-light';
 
 const AudioComponent: React.FC = () => {
   const { audioBlob, isRecording, stopRecording, startRecording } = useAudioRecorder();
