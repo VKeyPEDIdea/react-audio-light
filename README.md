@@ -12,7 +12,7 @@ A lightweight React hooks library for audio recording and playing in web applica
 ## Installation
 
 ```bash
-npm install react-audio
+npm install react-audio-light
 ```
 
 ## Usage
