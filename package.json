@@ -32,6 +32,7 @@
     "voice player",
     "voice"
   ],
+  "repository": "https://github.com/VKeyPEDIdea/react-audio-light",
   "types": "./src/index.d.ts",
   "license": "MIT",
   "author": "Pavel Karyapkin",
